@@ -19,9 +19,6 @@
 XycLoans is a flash loans protocol implemented for the Soroban Virtual Machine.
 The protocol, besides offering an efficient and cheap way of borrowing flash loans, also offers investors to safely provide liquidity and earn yield. 
 
-# How to use
-
-To get started trying out xycLoans, check out the [examples](./examples/).
 
 # Why choose xycLoans
 
